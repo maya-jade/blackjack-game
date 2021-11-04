@@ -7,6 +7,7 @@ body {
     margin: auto;
     display: flex;
     flex-direction: column;
+    font-size: x-large;
 }
 
 h1 {
