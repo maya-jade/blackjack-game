@@ -5,8 +5,6 @@ body {
     color: white;
     text-align: center;
     margin: auto;
-    display: flex;
-    flex-direction: column;
     font-size: x-large;
 }
 
@@ -30,4 +28,10 @@ button {
     justify-content: center;
     margin: auto;
     margin-top: 5px;
+}
+
+.wrap {
+    display: flex;
+    flex-direction: column;
+    font-size: x-large;
 }
