@@ -40,3 +40,9 @@ button {
     flex-direction: column;
     font-size: 1em;
 }
+
+@media (max-width: 650px) {
+  .wrap {
+    font-size: 3em;
+  }
+}
