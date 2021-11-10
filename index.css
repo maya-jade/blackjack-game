@@ -1,5 +1,6 @@
 body {
-    font-family: 'Open Sans', sans-serif;    background-image: url("table.png");
+    font-family: 'Open Sans', sans-serif;
+    background-image: url("table.png");
     background-size: cover;
     font-weight: bold;
     color: white;
@@ -37,5 +38,5 @@ button {
 .wrap {
     display: flex;
     flex-direction: column;
-    font-size: x-large;
+    font-size: 1em;
 }
