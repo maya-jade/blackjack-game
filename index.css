@@ -6,6 +6,8 @@ body {
     color: white;
     text-align: center;
     margin: auto;
+    font-size: 2rem;
+
 }
 
 h1 {
@@ -31,22 +33,9 @@ button {
     font-size: 1em;
     font-family: 'Open Sans', sans-serif;
     margin-left: 2em;
-
-;
 }
 
 .wrap {
     display: flex;
     flex-direction: column;
-    font-size: 1em;
-}
-
-
-@media (min-width: 650px) {
-.wrap {
-  font-size: 3em;
-}
-button {
-  font-size: 2.5em;
-}
 }
