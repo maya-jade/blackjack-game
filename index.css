@@ -43,7 +43,7 @@ button {
 
 
 @media (max-width: 650px) {
-.wrapper {
+.wrap {
   font-size: 3em;
 }
 button {
