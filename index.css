@@ -28,7 +28,7 @@ button {
     justify-content: center;
     margin: auto;
     margin-top: 1em;
-    font-size: 1em;
+    font-size: large;
     font-family: 'Open Sans', sans-serif;
     margin-left: 2em;
 
@@ -41,6 +41,11 @@ button {
     font-size: 1em;
 }
 
+@media (max-width: 650px) {
 .wrapper {
   font-size: 2.5em;
+}
+button {
+  font-size: 1em;
+}
 }
