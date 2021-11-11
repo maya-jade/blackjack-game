@@ -42,7 +42,7 @@ button {
 }
 
 
-@media (max-width: 650px) {
+@media (min-width: 650px) {
 .wrap {
   font-size: 3em;
 }
