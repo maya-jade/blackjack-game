@@ -42,9 +42,5 @@ button {
 }
 
 .wrapper {
-  font-size: 2em;
-}
-
-@media (max-width: 650px) {
-
+  font-size: 2.5em;
 }
